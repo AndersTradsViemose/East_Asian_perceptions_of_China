@@ -1,4 +1,4 @@
-# East_Asian_perceptions_of_China
+# East Asian perceptions of China data analysis
 
 
 This GitHub repository includes all R code for my undergraduate dissertation at the University of Manchester.
